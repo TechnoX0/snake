@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #2B3035;
+}
+
+#wrap {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
+
+#board {
+    background-color: #212529;
+}
